@@ -72,7 +72,6 @@ img_three.className = 'imgs'
 img_four.className = 'imgs'
 
 
-// Добавляем блоки в 'divs'
 divs.appendChild(block_one);
 divs.appendChild(block_two);
 divs.appendChild(block_three);
@@ -95,7 +94,4 @@ block_three.appendChild(btns_three)
 block_four.appendChild(btns_four)
 
 
-
-
-// Добавляем 'divs' в 'body'
 body.appendChild(divs);
